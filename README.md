@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=00FF41&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Beast-jr" alt="Hi, I'm Beast-jr" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=00FF41&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jahnavi" alt="Hi, I'm Jahnavi" />
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Your+title+goes+here;A+one-line+tagline+about+what+you+build" alt="Your title goes here" />
 
