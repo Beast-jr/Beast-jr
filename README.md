@@ -5,11 +5,10 @@
 
 I build practical AI and data projects in Python, from LLM-powered apps and retrieval pipelines to machine-learning models on large real-world datasets. I like turning messy data into tools people can actually use.
 
-I'm currently building **CreditPath**, a GenAI loan-readiness assistant for Indian MSMEs, and exploring LLM infrastructure with **llm-gateway**.
+I'm currently exploring LLM infrastructure with **llm-gateway**.
 
 ### What I'm up to
 
-- Building [CreditPath](https://github.com/Beast-jr/creditpath), a RAG-based assistant for loan eligibility and government scheme discovery
 - Analysed ~20M police-complaint records across Chicago, LA and NYC for hotspot prediction and crime forecasting
 - Experimenting with LLM gateway services (FastAPI-style API, services and migrations layout) in [llm-gateway](https://github.com/Beast-jr/llm-gateway)
 
@@ -54,14 +53,7 @@ I'm currently building **CreditPath**, a GenAI loan-readiness assistant for Indi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## Featured Project
-
-**[CreditPath](https://github.com/Beast-jr/creditpath)** — FastAPI, Streamlit, Gemini 2.5 Flash, ChromaDB, scikit-learn
-- GenAI-powered loan readiness and scheme discovery for Indian MSMEs: checks eligibility, explains the financial profile in plain English, and generates an improvement plan
-- Retrieval over a knowledge base of 36 validated government financing scheme documents (sentence-transformers + ChromaDB), with K-Means profiling
-- Evaluated with RAGAs and a custom plan evaluator; deployed on Railway, Streamlit Cloud and GitHub Pages
-
-## Other Projects
+## Projects
 
 - **[crime-analysis](https://github.com/Beast-jr/crime-analysis)** — Jupyter, XGBoost, TensorFlow/Keras, SHAP. Hotspot classification on a ~1 km grid (XGBoost best in all cities, up to 0.80 accuracy) and daily crime forecasting with LSTM, GRU, CNN and Transformer models vs an ARIMA baseline, plus an ablation of hybrid architectures.
 - **[llm-gateway](https://github.com/Beast-jr/llm-gateway)** — Python, Alembic. Gateway service for LLM requests (work in progress).
