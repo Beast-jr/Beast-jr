@@ -1,26 +1,21 @@
 <h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=00FF41&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jahnavi" alt="Hi, I'm Jahnavi" />
 </h1>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Your+title+goes+here;A+one-line+tagline+about+what+you+build" alt="Your title goes here" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=GenAI+%26+Machine+Learning+Developer;Building+AI+tools+for+real-world+problems" alt="GenAI and Machine Learning Developer" />
 
-<!-- TODO: replace with 1-2 sentences about what you enjoy working on. -->
-Write a short intro about yourself here.
+I build practical AI and data projects in Python, from LLM-powered apps and retrieval pipelines to machine-learning models on large real-world datasets. I like turning messy data into tools people can actually use.
 
-<!-- TODO: replace with your education / current focus. -->
-I'm currently studying / working on **your details here**.
+I'm currently building **CreditPath**, a GenAI loan-readiness assistant for Indian MSMEs, and exploring LLM infrastructure with **llm-gateway**.
 
 ### What I'm up to
 
-<!-- TODO: replace these placeholders with your real highlights. -->
-- Something you've built
-- A hackathon, award, or milestone
-- What you're currently learning or building
+- Building [CreditPath](https://github.com/Beast-jr/creditpath), a RAG-based assistant for loan eligibility and government scheme discovery
+- Analysed ~20M police-complaint records across Chicago, LA and NYC for hotspot prediction and crime forecasting
+- Experimenting with LLM gateway services (FastAPI-style API, services and migrations layout) in [llm-gateway](https://github.com/Beast-jr/llm-gateway)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## Tech Stack
-
-<!-- TODO: keep only the badges you actually use; swap in others from https://shields.io -->
 
 **Languages**
 
@@ -38,9 +33,20 @@ I'm currently studying / working on **your details here**.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="20"/>
 </p>
 
+**AI & Data**
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20"/>
+</p>
+
 **Tools & Frameworks**
 
 <p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"/>
@@ -50,16 +56,23 @@ I'm currently studying / working on **your details here**.
 
 ## Featured Project
 
-<!-- TODO: describe your best project. -->
-**Project Name** — Tech, Used, Here
-- What it does
-- A key technical detail
-- A measurable result
+**[CreditPath](https://github.com/Beast-jr/creditpath)** — FastAPI, Streamlit, Gemini 2.5 Flash, ChromaDB, scikit-learn
+- GenAI-powered loan readiness and scheme discovery for Indian MSMEs: checks eligibility, explains the financial profile in plain English, and generates an improvement plan
+- Retrieval over a knowledge base of 36 validated government financing scheme documents (sentence-transformers + ChromaDB), with K-Means profiling
+- Evaluated with RAGAs and a custom plan evaluator; deployed on Railway, Streamlit Cloud and GitHub Pages
+
+## Other Projects
+
+- **[crime-analysis](https://github.com/Beast-jr/crime-analysis)** — Jupyter, XGBoost, TensorFlow/Keras, SHAP. Hotspot classification on a ~1 km grid (XGBoost best in all cities, up to 0.80 accuracy) and daily crime forecasting with LSTM, GRU, CNN and Transformer models vs an ARIMA baseline, plus an ablation of hybrid architectures.
+- **[llm-gateway](https://github.com/Beast-jr/llm-gateway)** — Python, Alembic. Gateway service for LLM requests (work in progress).
 
 ## Find Me
 
 <p>
 <a href="mailto:jahnaviraja46@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="20"/>
+</a>
+<a href="https://github.com/Beast-jr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20"/>
 </a>
 </p>
